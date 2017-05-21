@@ -2,7 +2,7 @@
 
 Create New JUnit File
 
-[![New File](media/newjunitclass.png)]
+![New File](media/newjunitclass.png)
 
 Run JUnit Test ▶️ 
 
